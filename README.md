@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D5603AQGZiWZR1_mTug/profile-displayphoto-shrink_800_800/0/1711091956820?e=1716422400&v=beta&t=19LvJXRb4Rl0iVv2rwimaLti8Qmnq80eShc1qpTf--Q"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
